@@ -45,7 +45,7 @@ Ex: ```console.log(testeDeVariavel) \
 
 • Quebra de linha no javascript - \n 
 
-• Comentarios em javaScript: 
+• Comentarios em javaScript: \
 // comentario de uma linha  
 /* Comentario de varias linhas */ 
 
