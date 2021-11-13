@@ -14,22 +14,26 @@ Ex: nomeVariavel = "novo valor da variavel"
 
 *• Mas o que diferencia o tipo let do tipo var?* \
 O tipo let so tem definição dentro de um bloco de código, ou seja, se estiver dentro de um operador e for chamado para fora, essa variável se tornara indefinida. \
-Ex: ```if (true){ 
-    let testeDeVariavel = "Infelizmente não foi possivel definir" 
-    console.log(testeDeVariavel) 
+Ex: \
+```if (true){ 
+   let testeDeVariavel = "Infelizmente não foi possivel definir" 
+   console.log(testeDeVariavel) 
 }```  \
 Dentro desse bloco o console.log conseguirá extrair o valor da variavel, mas se tentarmos puxar ela pra fora apenas com o console.log ele não irá conseguir puxar o valor dela. \
-Ex: ```console.log(testeDeVariavel) 
-       undefined``` 
+Ex: \
+```console.log(testeDeVariavel) 
+   undefined``` 
 
 Já o tipo var tem valor dentro e fora do bloco de código. \
-Ex: ```if (true) { 
+Ex: \
+```if (true) { 
     var testeDeVariavel = "Conseguimos concluir o teste. Parabens" 
     console.log(testeDeVariavel) 
 }``` \
 -Agora quando tentarmos puxar de fora o valor também será possivel. \
-Ex: ```console.log(testeDeVariavel) \
-       Conseguimos concluir o teste. Parabens``` 
+Ex: \
+```console.log(testeDeVariavel) 
+   Conseguimos concluir o teste. Parabens``` 
 
 ### Tipos de caixa de dialogo
 
