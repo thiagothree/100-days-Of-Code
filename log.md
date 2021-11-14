@@ -13,3 +13,10 @@
 
 **Aprendizados:** Entendi como funcionam as operações (matematicas) tanto do tipo *number* como do tipo *string* e como funcionam as ordem de procedencia. \
 • Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%201/Dia%201.md)
+
+### Dia 2: 11 de Novembro de 2021:
+
+**Progresso do dia:** Tive avanços na lógica com javascript, aprendi sobre variáveis e aprendi coisas novas sobre a linguagem. \
+
+**Aprendizados:** Aprendi a como declarar variáveis, os tipos de atribuidores de variáveis e suas diferenças. Também aprendi sobre caixas de diálogo na página e também aprendi novas coisas básicas. \
+• Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%202/Dia%202.md)
