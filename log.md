@@ -16,7 +16,14 @@
 
 ### Dia 2: 11 de Novembro de 2021:
 
-**Progresso do dia:** Tive avanços na lógica com javascript, aprendi sobre variáveis e aprendi coisas novas sobre a linguagem. \
+**Progresso do dia:** Tive avanços na lógica com javascript, aprendi sobre variáveis e aprendi coisas novas sobre a linguagem. 
 
 **Aprendizados:** Aprendi a como declarar variáveis, os tipos de atribuidores de variáveis e suas diferenças. Também aprendi sobre caixas de diálogo na página e também aprendi novas coisas básicas. \
 • Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%202/Dia%202.md)
+
+### Dia 3: 12 de Novembro de 2021:
+
+**Progresso do dia:** Tive avanços na lógica com javascript, aprendi sobre operadores. 
+
+**Aprendizados:** Aprendi como funcionam os operadores na linguagem. Ex: (> maior que, < menor que, <= menor ou igual e etc.) \
+• Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%203/Dia%203%20-%20Condicionais%20-%20Parte%201.md)
