@@ -32,7 +32,7 @@ apresenta a função designada caso seja escolhida.
 `if (velocitySpaceship <= 0 ) {` \
   `alert("Nave está parada. Considere partir e aumentar a velocidade!")` \
 `} else if (velocitySpaceship > 0 && velocitySpaceship < 40) {` \
-  `alert("Você está devagar, podemos acelerar mais!")` \ 
+  `alert("Você está devagar, podemos acelerar mais!")` \
 `} else if (velocitySpaceship >= 40 && velocitySpaceship < 80) {` \
   `alert("Parece uma boa velocidade para manter!")` 
 
