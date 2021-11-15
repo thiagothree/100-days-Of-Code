@@ -32,6 +32,12 @@
 
 **Progresso do dia:** Avancei nos conceitos de Condicionais. \
 
-**Aprendizados:** Aprendi sobre como funciona as operações lógicas com booleanos. Aprendi a tabela verdade de cada operador (atualmente na programação temos 3: And, Or, not), onde vemos como funciona o resultado entre os valores booleanos.
+**Aprendizados:** Aprendi sobre como funciona as operações lógicas com booleanos. Aprendi a tabela verdade de cada operador (atualmente na programação temos 3: And, Or, not), onde vemos como funciona o resultado entre os valores booleanos. \
 • Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%204/Dia%204.md)
 
+### Dia 5: 14 de Novembro de 2021:
+
+**Progresso do dia:** Ainda sobre condicionais. \
+
+**Aprendizados:** Aprendi quais são e como funcionam os operadores condicionais (controle de fluxo) e também o famoso if de uma linha (operador ternário). \
+• Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%205/Dia%205%20-%20Condicionais%20-%20Parte%203.md)
