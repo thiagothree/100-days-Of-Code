@@ -23,7 +23,7 @@ false |false |false  |
 
 • Tabela verdade do - OU (or) (representado por ||)
 
-p     | q    |p (||) q |
+p     | q    |p () q |
 :---: |:---: |:-----:|
 true  |true  |true   |
 true  |false |true   |
