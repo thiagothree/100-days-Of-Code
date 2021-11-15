@@ -23,12 +23,12 @@ false |false |false  |
 
 • Tabela verdade do - OU (or) (representado por ||)
 
-p     | q    |p || q|
-:---: |:---: |:----:|
-true  |true  |true  |
-true  |false |true  |
-false |true  |true  |
-false |false |false |
+p     | q    |p || q |
+:---: |:---: |:-----:|
+true  |true  |true   |
+true  |false |true   |
+false |true  |true   |
+false |false |false  |
 
 • Tabela verdade do - NÂO (not!()) (representado por !())
 
