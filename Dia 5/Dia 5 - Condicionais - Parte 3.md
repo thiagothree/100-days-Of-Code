@@ -11,7 +11,7 @@ apresenta a função designada caso seja escolhida.
 }
 
 • Ex: \
-`let velocity = 20`
-`if (velocity > 19) {`
-`console.log("Você está em uma velocidade elevada. Considere diminuir!)`
+`let velocity = 20` \
+`if (velocity > 19) {` \
+`console.log("Você está em uma velocidade elevada. Considere diminuir!)` \
 `}`
