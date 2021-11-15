@@ -27,3 +27,11 @@
 
 **Aprendizados:** Aprendi como funcionam os operadores na linguagem. Ex: (> maior que, < menor que, <= menor ou igual e etc.) \
 • Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%203/Dia%203%20-%20Condicionais%20-%20Parte%201.md)
+
+### Dia 4: 13 de Novembro de 2021:
+
+**Progresso do dia:** Avancei nos conceitos de Condicionais. \
+
+**Aprendizados:** Aprendi sobre como funciona as operações lógicas com booleanos. Aprendi a tabela verdade de cada operador (atualmente na programação temos 3: And, Or, not), onde vemos como funciona o resultado entre os valores booleanos.
+• Link do [arquivo.](https://github.com/thiagothree/100-days-Of-Code/blob/main/Dia%204/Dia%204.md)
+
