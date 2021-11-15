@@ -23,12 +23,12 @@ false |false |false  |
 
 • Tabela verdade do - OU (or) (representado por ||)
 
-p     | q    |p || q |
-:---: |:---: |:-----:|
-true  |true  |true   |
-true  |false |true   |
-false |true  |true   |
-false |false |false  |
+p     | q    |p || q|
+:---: |:---: |:----:|
+true  |true  |true  |
+true  |false |true  |
+false |true  |true  |
+false |false |false |
 
 • Tabela verdade do - NÂO (not!()) (representado por !())
 
@@ -37,4 +37,4 @@ p     | !q   |
 true  |false |
 false |true  |
 
-• Ex: ```let velocity = 20 | console.log(!(velocity > 19 | NÂO Verdadeiro (velocity é maior do que 20) então o resultado é falso```
+• Ex: ```let velocity = 20 | console.log(!(velocity > 19``` | NÂO Verdadeiro (velocity é maior do que 20) então o resultado é falso
