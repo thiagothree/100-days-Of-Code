@@ -15,3 +15,12 @@ apresenta a função designada caso seja escolhida.
 `if (velocity > 19) {` \
 `console.log("Você está em uma velocidade elevada. Considere diminuir!)` \
 `}`
+
+• else (significa "**se não**") é executado apenas quando a expressão não atende ao *if* [não existe sem o *if*]. \
+• Ex: \
+`let velocity = 20` \
+`if (velocity > 19) {` \
+`console.log("Você está em uma velocidade elevada. Considere diminuir!)` \
+`} else {` \
+`console.log("Você está numa ótima velocidade")`
+
