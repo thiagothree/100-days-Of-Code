@@ -1,3 +1,7 @@
+/* Switch: O switch é também um operadores lógicos de condicionais, parecido com o if, ele irá realizar uma ação de acordo com a condição designada  a ele.
+Ex: Nesse exemplo iremos escolher o tipo de combustível
+quantos litros de combustivel ele irá gastar para realizar uma viagem e quanto ele irá gastar em combustivel.
+*/ 
 let distanciaViajem = prompt('Quantos km você irá viajar?')
 let combustivelUtilizado = prompt(
   'Qual combustivel você irá utilizar?\n1- Gasolina\n2- Alcool\n3- Diesel'
