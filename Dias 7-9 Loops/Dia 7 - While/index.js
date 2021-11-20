@@ -15,12 +15,16 @@ let dobraEspacial = prompt("Deseja entrar em dobra espacial?\n\n1- Sim\n2- Não"
 let dobraEspacialQuanti = 0
 let proxDobraEspacial
 
+// Aqui o usuário irá decidir se vai continuar rodando o código ou se vai encerrar
+
 if (dobraEspacial == "1") {
   dobraEspacialQuanti += 1
   proxDobraEspacial = prompt("Deseja realizar a próxima dobra?\n\n1- Sim\n2- Não")
 } else {
   alert("Nome da nave: " + spaceshipName + "\nQuantidade de dobras: " + dobraEspacialQuanti)
 }
+
+// Aqui caso o usuário decida continuar, a estrutura de repetição *While* entra em cena
 
   while (proxDobraEspacial == "1") {
     dobraEspacialQuanti += 1
