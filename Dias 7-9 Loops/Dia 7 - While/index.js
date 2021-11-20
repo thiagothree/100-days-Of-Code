@@ -18,18 +18,15 @@ let proxDobraEspacial
 if (dobraEspacial == "1") {
   dobraEspacialQuanti += 1
   proxDobraEspacial = prompt("Deseja realizar a próxima dobra?\n\n1- Sim\n2- Não")
-  
 } else {
   alert("Nome da nave: " + spaceshipName + "\nQuantidade de dobras: " + dobraEspacialQuanti)
 }
 
   while (proxDobraEspacial == "1") {
-    
     dobraEspacialQuanti += 1
     proxDobraEspacial = prompt("Deseja realizar a próxima dobra?\n\n1- Sim\n2- Não")
-  
 } 
-alert("Nome da nave: " + spaceshipName + "\nQuantidade de dobras: " + dobraEspacialQuanti)
+  alert("Nome da nave: " + spaceshipName + "\nQuantidade de dobras: " + dobraEspacialQuanti)
 
 
 
